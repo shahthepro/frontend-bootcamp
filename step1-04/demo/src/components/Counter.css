@@ -1,0 +1,14 @@
+.counter {
+  display: flex;
+  width: 200px;
+  flex-direction: row;
+  margin-bottom: 10px;
+}
+
+.counter .text {
+  flex: 1 0 auto;
+}
+
+.counter .button {
+  flex: 0 0 auto;
+}
