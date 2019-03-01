@@ -7,7 +7,7 @@ import { FluentCustomizations } from '@uifabric/fluent-theme';
 
 const className = mergeStyles({
   padding: 25,
-  ...getTheme().effects.elevation4
+
 });
 
 export const TodoApp = () => {
